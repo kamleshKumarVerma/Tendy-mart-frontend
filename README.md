@@ -23,3 +23,6 @@ Front-end code for Tendy-mart
   ng build --prod
   ```
 	- it will create one dist folder that you can put into your production server.
+	
+### Source code on bitbucket for privacy reason
+
