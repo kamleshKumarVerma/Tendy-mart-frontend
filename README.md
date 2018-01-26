@@ -24,5 +24,5 @@ Front-end code for Tendy-mart
   ```
 	- it will create one dist folder that you can put into your production server.
 	
-### Source code on bitbucket for privacy reason
+### Source code exist on bitbucket for privacy reason
 
