@@ -1,4 +1,4 @@
-# Tendy-mart-frontend
+# Tendymart frontend
 
 Front-end code for Tendy-mart
 
@@ -7,7 +7,7 @@ Front-end code for Tendy-mart
 
 
 
-### How to Dev Setup For Tendy-mart Frontend 
+### How to Dev Setup For Tendymart Frontend 
 
 -	First install nodejs and npm ( nodejs >= 8 and npm >= 5)
 -	Now installed Angular -CLI (https://cli.angular.io/)
